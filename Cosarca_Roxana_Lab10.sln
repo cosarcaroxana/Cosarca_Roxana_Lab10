@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cosarca_Roxana_Lab10", "Cosarca_Roxana_Lab10.csproj", "{207DA4ED-D66B-44EB-ABA1-BCF45578841B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gRPCClient", "..\gRPCClient\gRPCClient.csproj", "{47C7664A-B0BF-446C-AF22-5BF5C9F06914}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{207DA4ED-D66B-44EB-ABA1-BCF45578841B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207DA4ED-D66B-44EB-ABA1-BCF45578841B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207DA4ED-D66B-44EB-ABA1-BCF45578841B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207DA4ED-D66B-44EB-ABA1-BCF45578841B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C7664A-B0BF-446C-AF22-5BF5C9F06914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C7664A-B0BF-446C-AF22-5BF5C9F06914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C7664A-B0BF-446C-AF22-5BF5C9F06914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C7664A-B0BF-446C-AF22-5BF5C9F06914}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0B606E9-FFEB-459F-9B9A-F6DD12DECDE1}
+	EndGlobalSection
+EndGlobal
